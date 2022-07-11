@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: 30px;
+    color: white;
+    float: left;
+    margin-top: 15px;
+}
+.right ul{
+    list-style-type: none;
+    color: white;  
+}
+.right ul li{
+    float: right;
+    display: inline;
+    margin-right: 30px;
+    margin-top:15px ;
+    font-size: small;
+}
+.main{
+    width: 100%;
+    height: 370px;
+    background-color: rgba(6, 112, 80, 0.7);
+}
+.main img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color:rgb(2, 2, 58); 
+}
+.boy{
+    margin-left: 45%;
+    padding-top: 70px;
+}
+.content{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.content p{
+    margin-top: 15px;
+}
+.main-body{
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    margin-top: 30px;
+}
+.main-body p{
+    margin-top: 10px;
+}
+.body1{
+    width: 80%;
+    height:170px ;
+    margin-left: 50px;
+}
+.col1{
+    width:26% ;
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 170px;
+    margin-top: 20px;
+    background-color: rgb(122, 55, 55);
+}
+.col2{
+    width:26% ;
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: skyblue;
+ 
+}
+.col3{
+    width:26% ;
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: black;
+}
+.house{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    float: left;
+   margin-left: 65px;
+   margin-top: 20px;
+
+}
+.cake{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 65px;
+    margin-top: 20px;
+
+}
+.tent{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.body2{
+    width: 80%;
+    height:170px ;
+    margin-left: 50px;
+}
+.col4{
+    width:26% ;
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 170px;
+    margin-top: 20px;
+    background-color: rgb(59, 199, 254);
+}
+.game{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.col5{
+    width:26% ;
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color:rgba(0, 0, 255, 0.7);
+}
+.dryer{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.col6{
+    width:26% ;
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color:burlywood;
+}
+.submarine{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: rgba(6, 112, 80, 0.7);
+    color: white;
+    text-align: center;
+}
+.para{
+    width: 100%;
+    height: 120px;
+}
+.part1{
+    margin-top: 15px;
+    width: 35%;
+    height: 100px;
+    text-align: justify;
+    float: left;
+    margin-left: 13%;
+}
+.part2{
+    margin-top: 15px;
+    width: 35%;
+    height: 100px;
+    text-align: justify;
+    float: left;
+    margin-left: 47px;
+}
+.footer h1{
+    padding-top: 20px;
+}
+.footer p{
+    padding-top: 10px;
+}
+.footer button{
+margin-top: 30px;
+background-color: transparent;
+border: 1px solid white;
+width: 150px;
+height: 33px;
+color: white;
+border-radius: 5px;
+}
+  
+
+
+
